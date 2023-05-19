@@ -4,7 +4,7 @@
 
 
 ## 🔥Introduce
-
+> 该主题已停止维护，我已重开一个前后端分离的项目[Aurora-Blog](https://github.com/blog-aurora/aurora-blog)
 ![](https://img.shields.io/npm/v/vuepress-theme-aurora)![npm](https://img.shields.io/npm/dm/vuepress-theme-aurora)![](https://img.shields.io/github/stars/qsyyke/vuepress-theme-aurora?style=social)
 
 ![image-20211208135404881](https://picture.xcye.xyz/image-20211208135404881.png?x-oss-process=style/pictureProcess1)
